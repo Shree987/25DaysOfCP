@@ -1,7 +1,7 @@
 /*
 Author : Shreeraksha R Aithal
 Problem name : Minimum Swaps to Make Strings Equal
-Problem statement : https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/
+Problem link : https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/
 Difficulty : Medium
 Tags : Greedy, String
 */

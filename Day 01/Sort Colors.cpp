@@ -1,7 +1,7 @@
 /*
 Author : Shreeraksha R Aithal
 Problem name : Sort Colors
-Problem statement : https://leetcode.com/problems/sort-colors/
+Problem link : https://leetcode.com/problems/sort-colors/
 Difficulty : Medium
 Tags : Array
 */
