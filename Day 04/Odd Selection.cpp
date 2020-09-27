@@ -2,8 +2,8 @@
 Author : Shreeraksha R Aithal
 Problem name : Odd Selection
 Problem link : https://codeforces.com/problemset/problem/1363/A
-Rating : 1300
-Tags : Array, Two Pointers
+Rating : 1200
+Tags : Math
 */
 
 #include<bits/stdc++.h> 
