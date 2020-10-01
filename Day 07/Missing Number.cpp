@@ -1,7 +1,7 @@
 /*
 Author : Shreeraksha R Aithal
-Problem name : 
-Problem link : httpsleetcode.comproblemsmissing-number
+Problem name : Missing Number
+Problem link : https://leetcode.com/problems/missing-number/
 Difficulty : Easy
 Tags : Array, Math
 */
