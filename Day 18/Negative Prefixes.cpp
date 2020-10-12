@@ -3,7 +3,7 @@ Author : Shreeraksha R Aithal
 Problem name : Negative Prefixes
 Problem link : https://codeforces.com/problemset/problem/1418/B
 Rating : 1300
-Tags : Greedy, Sorting
+Tags : Array, Greedy, Sorting
 */
 
 #include<bits/stdc++.h>
