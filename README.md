@@ -8,3 +8,4 @@ My commitment for Competitive Programming during Winter 2020.
 - Day 4 : [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
 - Day 5 : [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Simplify Path](https://leetcode.com/problems/simplify-path/)
 - Day 6 : [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
+- Day 7 : [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)
