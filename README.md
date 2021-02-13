@@ -13,3 +13,4 @@ My commitment for Competitive Programming during Winter 2020.
 - Day 9 : [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Palindrome Number](http://leetcode.com/problems/palindrome-number/)
 - Day 10 : [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 - Day 11 : [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Rotate List](https://leetcode.com/problems/rotate-list/)
+- Day 12 : [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
