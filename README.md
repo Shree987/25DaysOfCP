@@ -19,3 +19,4 @@ My commitment for Competitive Programming during Winter 2020.
 - Day 15 : [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
 - Day 16 : [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
 - Day 17 : [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+- Day 18 : [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
