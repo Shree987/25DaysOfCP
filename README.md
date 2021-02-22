@@ -23,3 +23,4 @@ My commitment for Competitive Programming during Winter 2020.
 - Day 19 : [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
 - Day 20 : [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 - Day 21 : [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [House Robber](https://leetcode.com/problems/house-robber/)
+- Day 22 : [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
