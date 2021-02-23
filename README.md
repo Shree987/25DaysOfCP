@@ -24,3 +24,4 @@ My commitment for Competitive Programming during Winter 2020.
 - Day 20 : [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 - Day 21 : [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [House Robber](https://leetcode.com/problems/house-robber/)
 - Day 22 : [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- Day 23 : [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
