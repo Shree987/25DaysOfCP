@@ -9,3 +9,4 @@ My commitment for Competitive Programming during March 2021.
 - Day 5 : [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 - Day 6 : [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)
 - Day 7 : [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | [Design Browser History](https://leetcode.com/problems/design-browser-history/)
+- Day 8 : [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)
