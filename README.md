@@ -10,3 +10,4 @@ My commitment for Competitive Programming during March 2021.
 - Day 6 : [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)
 - Day 7 : [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | [Design Browser History](https://leetcode.com/problems/design-browser-history/)
 - Day 8 : [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)
+- Day 9 : [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
