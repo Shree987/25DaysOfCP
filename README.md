@@ -13,3 +13,4 @@ My commitment for Competitive Programming during March 2021.
 - Day 9 : [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 - Day 10 : [Check If It Is a Straight Line](http://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 - Day 11 : [Coin Change](https://leetcode.com/problems/coin-change/) | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+- Day 12 : [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
