@@ -23,3 +23,4 @@ My commitment for Competitive Programming during March 2021.
 - Day 19 : [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)
 - Day 20 : [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | [Word Ladder](https://leetcode.com/problems/word-ladder/)
 - Day 21 : [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)
+- Day 22 : [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
