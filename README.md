@@ -28,3 +28,4 @@ My commitment for Competitive Programming during March 2021.
 - Day 24 : [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
 - Day 25 : [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
 - Day 26 : [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Word Subsets](https://leetcode.com/problems/word-subsets/)
+- Day 27 : [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
