@@ -32,3 +32,4 @@ My commitment for Competitive Programming during March 2021.
 - Day 28 : [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)
 - Day 29 : [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - Day 30 : [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
+- Day 31 : [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/) | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)
